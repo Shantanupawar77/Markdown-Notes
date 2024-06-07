@@ -47,6 +47,6 @@ The project uses CSS for styling, with classes to handle the layout and appearan
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Shantanu Pawar](https://github.com/Shantanupawar77)
 
 Feel free to contribute to this project by submitting issues or pull requests.
